@@ -5,12 +5,6 @@
   <a href="https://github.com/alexm010" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-24292e?style=flat&logo=github" alt="GitHub Profile" />
   </a>
-  <a href="https://www.linkedin.com/in/alexandros-markodimitrakis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" alt="LinkedIn Profile" />
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=flat&logo=gmail" alt="Email" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
